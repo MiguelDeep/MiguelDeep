@@ -1,5 +1,5 @@
 ### Olá, eu sou o Miguel 👋
-Here are some ideas to get you started:
+
 
 - 🔭Gosto bastante de codar...
 - 🌱 Estudante de programação...
