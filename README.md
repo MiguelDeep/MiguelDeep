@@ -19,6 +19,8 @@
  <img align="center" alt="Miguel-Csharp" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
  <img align="center" alt="Miguel-Csharp" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img align="center" alt="Miguel-typescript" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+ <img align="center" alt="Miguel-typescript" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+ <img align="center" alt="Miguel-tailwind " height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-original.svg">
           
   </div>
 
