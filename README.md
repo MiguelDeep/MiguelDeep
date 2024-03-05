@@ -26,7 +26,6 @@
 
 <hr>
   <div align="center" style="margin:auto"> 
-
   <a href="https://www.linkedin.com/in/miguel-nanga-manuel-078616233/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
