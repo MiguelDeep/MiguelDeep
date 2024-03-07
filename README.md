@@ -4,7 +4,7 @@
 ### Olá, eu sou o Miguel 👋
 [Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Miguel+Deep;I'm+19+years+old;I'm+from+Angola;I+computer+technician+is+Dev;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Miguel+Deep;I'm+19+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Miguel+Deep;I'm+19+years+old;I'm+from+Angola;I'm+Computer+Technician+Dev;Be+Welcome!+:%29)](https://git.io/typing-svg)
 - 🔭Gosto bastante de codar...
 - 🌱 Estudante de programação...
 
