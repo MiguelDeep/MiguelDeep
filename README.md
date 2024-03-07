@@ -1,3 +1,5 @@
+<div style="background="gray">
+  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=05012a&height=120&section=header"/>
 ### Olá, eu sou o Miguel 👋
 
@@ -37,3 +39,5 @@
     </a>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=05012a&height=120&section=footer"/>
+
+</div>
