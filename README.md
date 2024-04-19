@@ -22,7 +22,7 @@
  <img align="center" alt="Miguel-tailwind" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
    <img align="center" alt="Miguel-nodejs" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Miguel-fastify" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-plain.svg">
- img align="center" color="blue" alt="Miguel-php" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+ <img align="center" color="blue" alt="Miguel-php" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
           
   </div>
 
