@@ -26,6 +26,7 @@
   <img align="center" alt="Miguel-fastify" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg">
   <img align="center" alt="Miguel-fastify" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
  <img align="center" alt="Miguel-fastify" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+  <img  align="center" alt="Miguel-fastify" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
           
           
           
