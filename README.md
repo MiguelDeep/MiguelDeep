@@ -16,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelDeep&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-"Simplicity is the soul of efficiency." - Austin Freeman
+"Código limpo é aquele que é fácil de entender e modificar." - Robert C. Martin
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
