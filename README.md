@@ -2,10 +2,24 @@
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=090524&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá+meu+nome+é+Miguel+Manuel;Sou+estudante+de+Engenharia+Informática;e+Desenvolvedor+Back-end;Seja+Bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá+meu+nome+é+Miguel+Manuel;Sou+estudante+de+Engenharia+Informática;e+Desenvolvedor+web;Seja+Bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MauroTwister475&show_icons=true&count_private=true&hide_border=true&title_color=4675C0&icon_color=19335A&text_color=fff&bg_color=0d1117" alt="Miguel Manuel github 
+      stats"/>
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauroTwister475&layout=compact&langs_count=7&hide_border=true&title_color=4675C0&text_color=fff&bg_color=0d1117" />
+  </div>
+  <br><br>
+
+<div align="center">
+  <img align="center" width="500px" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelDeep&theme=dark&background=0d1117&hide_border=false&border=19335A"/>
+<div/>
+<br><br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MauroTwister475&bg_color=000000&color=697a98&line=19335a&point=4675c0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MiguelDeep&bg_color=090524&color=2305e7&line=2305e7&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <div align="center">
    <img title="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60"/> 
@@ -45,6 +59,23 @@
 
 
 
+
+
+
+
+ <div align="center">  
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MauroTwister475&show_icons=true&count_private=true&hide_border=true&title_color=4675C0&icon_color=19335A&text_color=fff&bg_color=0d1117" alt="Mauro Dinis Raimundo github 
+      stats"/>
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauroTwister475&layout=compact&langs_count=7&hide_border=true&title_color=4675C0&text_color=fff&bg_color=0d1117" />
+  </div>
+  <br><br>
+
+<div align="center">
+  <img align="center" width="500px" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=MauroTwister475&theme=dark&background=0d1117&hide_border=false&border=19335A"/>
+<div/>
+<br><br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MauroTwister475&bg_color=000000&color=697a98&line=19335a&point=4675c0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
