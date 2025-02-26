@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Desenvolvedor Web e Back-End apaixonado por tecnologia e inovação.<br>🚀 Busco criar soluções eficientes e escaláveis para desafios do mundo real.<br>💡 Sempre aberto a aprender novas tecnologias e colaborar em projetos impactantes.
+👨‍💻 Desenvolvedor Web apaixonado por tecnologia e inovação.<br>🚀 Busco criar soluções eficientes e escaláveis para desafios do mundo real.<br>💡 Sempre aberto a aprender novas tecnologias e colaborar em projetos impactantes.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-nanga-manuel-5576082a0/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/MiguelDeep)  
