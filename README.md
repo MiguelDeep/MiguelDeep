@@ -18,8 +18,6 @@
 ### ✍️ Random Dev Quote
 "Código limpo é aquele que é fácil de entender e modificar." - Robert C. Martin
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MiguelDeep&icon=0&color=0)](https://visitcount.itsvg.in)
