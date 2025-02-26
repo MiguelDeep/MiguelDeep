@@ -1,54 +1,27 @@
-<div style="background-color: blue;">
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=090524&height=120&section=header"/>
+# 💫 About Me:
+👨‍💻 Atualmente trabalho como Desenvolvedor Web e Back-End<br>👨‍💻 Estou buscando colaborar com desenvolvimento de software e projetos inovadores
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1+meu+nome+%C3%A9+Miguel+Manuel;Sou+estudante+de+Engenharia+Inform%C3%A1tica;e+Desenvolvedor+web;Seja+Bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-nanga-manuel-5576082a0/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/MiguelDeep)  
 
-<div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MiguelDeep&show_icons=true&count_private=true&hide_border=true&title_color=4675C0&icon_color=19335A&text_color=fff&bg_color=0d1117" alt="Miguel Manuel github stats"/>
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelDeep&layout=compact&langs_count=7&hide_border=true&title_color=4675C0&text_color=fff&bg_color=0d1117" />
-</div>
-<br><br>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 
-<div align="center">
-  <img align="center" width="500px" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelDeep&theme=dark&background=0d1117&hide_border=false&border=19335A"/>
-</div>
-<br><br>
+# 🛢️ Databases:
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-[![Miguel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MiguelDeep&bg_color=000000&color=697a98&line=19335a&point=4675c0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MiguelDeep&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MiguelDeep&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelDeep&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-   <img title="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60"/> 
-   <img title="csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60"/> 
-   <img title="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60"/> 
-   <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/> 
-   <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/>   
-   <img title="ReactJs" src="https://storage.googleapis.com/star-lab/novo-site/formacoes/react/react-icon.svg" width="60"/> 
-   <img title="Nodejs" src="https://storage.googleapis.com/star-lab/novo-site/formacoes/nodejs/node-icon.svg" width="60"/> 
-   <img title="Next" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60"/>
-   <img title="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</div>
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-<div align="center"> 
-    <p>MY CONTACTS</p>
-    <a href="https://www.instagram.com/_miguelmanuel_/" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>
-    <a href="mailto:nangamanuel22@gmail.com"> 
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.linkedin.com/in/miguel-nanga-manuel-5576082a0/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
-    </a> 
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=MiguelDeep&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-    <br><p align="center"><b>VISITORS COUNT</b></p>  
-    <p align="center">
-        <img align="center" src="https://profile-counter.glitch.me/{MiguelDeep}/count.svg" />
-    </p> 
-    <br>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19335A&height=120&section=footer"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
