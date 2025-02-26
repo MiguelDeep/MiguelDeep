@@ -57,24 +57,6 @@
 
 
 
-
-
-
-
-
-
- <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MauroTwister475&show_icons=true&count_private=true&hide_border=true&title_color=4675C0&icon_color=19335A&text_color=fff&bg_color=0d1117" alt="Mauro Dinis Raimundo github 
-      stats"/>
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauroTwister475&layout=compact&langs_count=7&hide_border=true&title_color=4675C0&text_color=fff&bg_color=0d1117" />
-  </div>
-  <br><br>
-
-<div align="center">
-  <img align="center" width="500px" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=MauroTwister475&theme=dark&background=0d1117&hide_border=false&border=19335A"/>
-<div/>
-<br><br>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MauroTwister475&bg_color=000000&color=697a98&line=19335a&point=4675c0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
